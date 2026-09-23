@@ -90,5 +90,3 @@ ThingSpeak Channel ID: 3500612
 Paste your final ThingSpeak channel link here.
 16. Learning Reflection
 Through this project, I learned how an IoT system can collect real-time environmental data using sensors and send the data to a cloud platform. I learned how to connect a DHT22 sensor with an ESP32, write a MicroPython program, simulate the circuit using Wokwi, connect the system to Wi-Fi, and send sensor readings to ThingSpeak. I also gained experience in using GitHub to store and present the project files. This project helped me understand the practical working of sensors, microcontrollers, cloud platforms, and IoT communication.
-Conclusion
-This project successfully demonstrates an IoT-based temperature and humidity monitoring system using ESP32 and DHT22. The sensor data is collected, sent through Wi-Fi to ThingSpeak, and displayed as graphs. Through this project, we gained practical knowledge of IoT, sensors, ESP32, MicroPython, cloud platforms, and Wokwi simulation.
