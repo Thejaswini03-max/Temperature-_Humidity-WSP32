@@ -71,11 +71,13 @@ Using a mobile application for monitoring.
 Adding automatic control based on temperature or humidity.
 Storing and analyzing larger amounts of sensor data.
 Developing a complete smart-home monitoring system.
-13. Team Members' Details:
-Name:
-Register Number:
+13.Team Members Detail's:
+Keerthi A
+U03ZW24S0097
 Thejaswini C
 U03ZW24S0084,
+Sreethan H D,
+Jewel mary jibi
 Bsc. 5th Semester MEC
 14. Wokwi Project Link
 Wokwi Project:
